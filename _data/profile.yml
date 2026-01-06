@@ -32,8 +32,8 @@ short_bio: >-
   </p>
 #  !<p> I am also <b>a lazy and amateur painter</b>. </p>
 
-portrait_url: /assets/images/photos/profile-shumeng.jpg 
-portrait_url_var1:  /assets/images/photos/profile-shumeng.jpg
+portrait_url: /assets/images/photos/profile-shumeng-ms.jpg 
+portrait_url_var1:  /assets/images/photos/profile-shumeng-ms.jpg
 
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
